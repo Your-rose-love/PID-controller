@@ -1,0 +1,4 @@
+PID.c:19:6:SET_ARR_VELOSITY	8	static
+PID.c:30:7:SET_DELAY_ZEROS	16	static
+PID.c:39:7:PID_ENABLE	8	static
+PID.c:50:6:PID_set	16	static

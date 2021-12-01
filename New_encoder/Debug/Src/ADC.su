@@ -1,0 +1,5 @@
+core_cm0.h:623:22:__NVIC_EnableIRQ	16	static
+core_cm0.h:730:22:__NVIC_SetPriority	24	static
+ADC.c:5:6:ADC_COMP_IRQHandler	8	static
+ADC.c:11:6:ADC_Init	8	static
+ADC.c:32:10:ADC_Get_Data	8	static

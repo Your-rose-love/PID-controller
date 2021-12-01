@@ -1,0 +1,8 @@
+core_cm0.h:623:22:__NVIC_EnableIRQ	16	static
+core_cm0.h:730:22:__NVIC_SetPriority	24	static
+gpio.c:4:6:EXTI0_1_IRQHandler	16	static
+gpio.c:34:6:GPIOEncoder_init	8	static
+gpio.c:46:6:EXTI2_3_IRQHandler	8	static
+gpio.c:60:6:GPIOButton_init	8	static
+gpio.c:72:6:GPIOPC8_init	8	static
+gpio.c:78:6:PWM_SET_VAL	16	static
